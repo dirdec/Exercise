@@ -1,9 +1,6 @@
-<<<<<<< HEAD
 coucou
 
 tata
 
 een testeken voor de conflicts
-=======
-hallo
->>>>>>> b48d3185a1cbef6e9fa5afdfc75ebaebcf995475
+
